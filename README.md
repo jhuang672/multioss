@@ -13,6 +13,6 @@ Note: both code require high performance computing environments with multiple th
 
 ### Who do I talk to? ###
 
-* The project was originated and is actively maintained by Jiangeng Huang <huangj@vt.edu>
+* This repository is actively maintained by Jiangeng Huang <huangj@vt.edu>
 
 
