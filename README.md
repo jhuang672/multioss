@@ -1,6 +1,6 @@
 # Multiple-output calibration of a honeycomb seal via on-site surrogates
 
-This repository contains the data and R code to implement the fully integrated inference for calibration parameter by combining all outputs through the fully Bayesian approach. The sampled posterior distribution was marginally plotted in diagonal and lower triangle of Figure 8 in the paper. 
+This repository contains the data and R code to implement the fully integrated inference for calibration parameter by combining all outputs through the fully Bayesian approach. The sampled posterior distribution was marginally plotted in diagonal and lower triangle of Figure 8 in the [paper](https://www.tandfonline.com/eprint/JKUCP7JCYUBAMHEQPB3U/full?target=10.1080/00401706.2022.2104931). 
 
 ### What is in this directory? 
 
